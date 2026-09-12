@@ -2,7 +2,7 @@
 
 Landing page desenvolvida como parte do Desafio 01 do curso, com o objetivo de apresentar uma escola de aulas particulares de música (violão, piano e canto).
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 HTML5 (semântico)
 CSS3 (com Flexbox e Media Queries para responsividade)
@@ -11,11 +11,11 @@ Git e GitHub
 
 Site publicado: https://ojoaomrcs.github.io/Desafio/
 Repositório: https://github.com/ojoaomrcs/Desafio
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O site conta com header com navegação, seção hero com chamada para ação, seção sobre, 3 cards de aulas oferecidas, galeria de imagens e seção de contato — seguindo os requisitos de estrutura semântica, acessibilidade e responsividade do desafio.
 
-## 🤖 Uso de Inteligência Artificial
+##  Uso de Inteligência Artificial
 
 Durante esse desafio eu usei o Claude e o Gemini como apoio, mas sempre buscando entender o que estava sendo feito antes de aplicar no projeto. Além da IA, também aprendi bastante assistindo as aulas do curso e usando o material de apoio disponibilizado.
 
